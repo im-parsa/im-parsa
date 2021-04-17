@@ -5,13 +5,13 @@
 ---
 
 <h2>🔗 Do you want to support paraffin team ?</h2>
-
+<h3 align="center"> 
 <a href="https://idpay.ir/donate-paraffin-team"><img src="https://img.buymeacoffee.com/button-api/?text=Donate &slug=BoyCode&button_colour=b33232&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ---
 
 <h2>🔗 My discord Server</h2>
-
+<h3 align="center"> 
 [![](https://img.shields.io/discord/796767783354368030.svg?logo=discord&colorB=7289DA)](https://discord.gg/RUrks4JqW6)
 
 ---
