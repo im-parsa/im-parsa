@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 Hi I am Parsa .
 
-<!--
-**im-parsa/im-parsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I am currently working on cool idea.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💁‍♂️Do you want to support paraffin team ?</h2>
+
+<a href="https://idpay.ir/donate-paraffin-team"><img src="https://img.buymeacoffee.com/button-api/?text=Donate &slug=BoyCode&button_colour=b33232&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+
+<h3 align="center"> 
+<br>
+Visitors<br>
+<img src="https://profile-counter.glitch.me/parsa.firoozi20/count.svg" />
+</h3>
+![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
