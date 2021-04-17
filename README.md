@@ -24,5 +24,6 @@ Visitors<br></br>
 </br>
 </br>
 I am in Discord
-</br></br>
+
+<br><br>
 ![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
