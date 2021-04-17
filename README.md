@@ -23,3 +23,7 @@ Visitors<br>
 </br>
 Visitors<br>
 ![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
+
+![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
+
+
