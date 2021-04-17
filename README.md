@@ -19,9 +19,10 @@
 <h3 align="center"> 
 <br>
 Visitors<br>
-<img src="https://profile-counter.glitch.me/parsa.firoozi20/count.svg" />
+<img src="https://profile-counter.glitch.me/parsa.firoozi55/count.svg" />
 </br>
-Visitors<br>
+</br>
+I am in Discord<br>
 
 ![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
 
