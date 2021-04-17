@@ -12,7 +12,7 @@
 
 <h2>🔗 My discord Server</h2>
 
-[![](https://img.shields.io/discord/796767783354368030.svg?logo=discord&colorB=7289DA)](https://paraffin.site)
+[![](https://img.shields.io/discord/796767783354368030.svg?logo=discord&colorB=7289DA)](https://discord.gg/RUrks4JqW6)
 
 ---
 
@@ -20,6 +20,6 @@
 <br>
 Visitors<br>
 <img src="https://profile-counter.glitch.me/parsa.firoozi20/count.svg" />
+![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
 </h3>
 
-![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
