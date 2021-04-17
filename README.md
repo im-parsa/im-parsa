@@ -18,12 +18,12 @@
 
 <h3 align="center"> 
 <br>
-Visitors<br>
+Visitors<br></br>
 <img src="https://profile-counter.glitch.me/parsa.firoozi55/count.svg" />
 </br>
 </br>
-I am in Discord<br>
-
+</br>
+I am in Discord<br></br>
 ![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
 
 
