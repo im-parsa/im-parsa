@@ -12,6 +12,7 @@
 
 <h2>🔗 My discord Server</h2>
 <h3 align="center"> 
+  
 [![](https://img.shields.io/discord/796767783354368030.svg?logo=discord&colorB=7289DA)](https://discord.gg/RUrks4JqW6)
 
 ---
