@@ -20,6 +20,6 @@
 <br>
 Visitors<br>
 <img src="https://profile-counter.glitch.me/parsa.firoozi20/count.svg" />
+</br>
+Visitors<br>
 ![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
-</h3>
-
