@@ -22,8 +22,8 @@
 <p align="center">
 <a href="https://instagram.com/parsa._.firoozi" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/488958506280550402" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/im-parsa"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </p>
 
-![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
+<h1 align="center">![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)</h1>
+
