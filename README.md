@@ -21,24 +21,25 @@
 
 <br>
 
-<details>
+<details align="center" >
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
 <br>
   
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&theme=nord" />
 </div>
   
 <br>
   
-<a align="center" href="https://github.com/im-parsa">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&show_icons=true&count_private=true&include_all_commits=true&theme=nord" />
+</div>
 
 <br>
  
-<a align="center" href="https://github.com/im-parsa">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=nord" />
-</a>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=nord" />
+</div>
   
 </details>
 
