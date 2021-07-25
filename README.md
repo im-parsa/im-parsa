@@ -6,7 +6,7 @@
 <h3 align="center">💡 I am currently working on cool idea.</h3>
 
 
-<p align="center"> 👨‍💻 All of my projects are available at **[https://parsa-firoozi.ir](https://parsa-firoozi.ir)**</p>
+<p align="center"> 👨‍💻 All of my projects are available at https://parsa-firoozi.ir</p>
 
 <br>
 <h1 align="center">🛠️ Tools with which i have spent sometime</h1>
