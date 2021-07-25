@@ -53,5 +53,7 @@
 <a href="https://github.com/im-parsa"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </p>
 
-![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
+<div align="center" >
+  ![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
+</div>
 
