@@ -24,15 +24,22 @@
 <details>
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
 <br>
-<a href="https://github.com/im-parsa">
+  
+<a align="center" href="https://github.com/im-parsa">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&theme=nord" />
 </a>
+  
 <br>
-<a href="https://github.com/im-parsa">
+  
+<a align="center" href="https://github.com/im-parsa">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
-<a href="https://github.com/im-parsa">
+
+<br>
+ 
+<a align="center" href="https://github.com/im-parsa">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=nord" />
 </a>
+  
 </details>
 
 <br>
