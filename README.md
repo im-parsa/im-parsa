@@ -9,6 +9,7 @@
 <p align="center"> 👨‍💻 All of my projects are available at https://parsa-firoozi.ir</p>
 
 <br>
+
 <h1 align="center">🛠️ Tools with which i have spent sometime</h1>
 <p align="center"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -18,6 +19,8 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></p>
 
+<br>
+
 <details>
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
 <br>
@@ -25,13 +28,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&theme=nord" />
 </a>
 <br>
-
 <a href="https://github.com/im-parsa">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
 <a href="https://github.com/im-parsa">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=nord" />
 </a>
 </details>
+
+<br>
+
 
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
