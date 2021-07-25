@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋, I'm Parsa Firoozi</h1>
+<p align="center"><samp><b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b></samp></p>
+<p align="center"><h1 align="center"><samp> I am <a href="https://parsa-firoozi.ir/">Paras </a> </samp></h1></p>
+<p align="center"><h4 align="center"><samp> Fullstack web developer - App & Bot developer - Graphic Designer </samp></h4></p>
+<br>
+
 <h3 align="center">💡 I am currently working on cool idea.</h3>
 
 - 👨‍💻 All of my projects are available at **[https://parsa-firoozi.ir](https://parsa-firoozi.ir)**
@@ -13,10 +17,21 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&layout=compact&hide=html" alt="im-parsa" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=im-parsa&row=2&column=3" alt="im-parsa" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&show_icons=true" alt="im-parsa" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa" alt="im-parsa" /></p>
+<details>
+  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+<br>
+<a href="https://github.com/im-parsa">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&theme=nord" />
+</a>
+<br>
+
+<a href="https://github.com/im-parsa">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
+<a href="https://github.com/im-parsa">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=nord" />
+</a>
+</details>
+
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
 <a href="https://instagram.com/parsa._.firoozi" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
