@@ -25,9 +25,9 @@
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
 <br>
   
-<a align="center" href="https://github.com/im-parsa">
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&theme=nord" />
-</a>
+</div>
   
 <br>
   
