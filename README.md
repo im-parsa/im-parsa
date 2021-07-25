@@ -1,6 +1,6 @@
 <p align="center"><samp><b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am <a href="https://parsa-firoozi.ir/">Paras </a> </samp></h1></p>
-<p align="center"><h4 align="center"><samp> Fullstack web developer - App & Bot developer - Graphic Designer </samp></h4></p>
+<p align="center"><h4 align="center"><samp> Fullstack Web Developer - App & Bot Developer - Graphic Designer </samp></h4></p>
 <br>
 
 <h3 align="center">💡 I am currently working on cool idea.</h3>
