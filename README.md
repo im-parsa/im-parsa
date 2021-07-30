@@ -26,7 +26,7 @@
 <br>
   
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&theme=dark&hide_border=true&stroke=f53b3b" />
 </div>
   
 <br>
