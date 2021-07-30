@@ -32,13 +32,13 @@
 <br>
   
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&show_icons=true&count_private=true&include_all_commits=true&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&stroke=f53b3b" />
 </div>
 
 <br>
  
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=nord" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=dark&hide_border=true&stroke=f53b3b" />
 </div>
   
 </details>
