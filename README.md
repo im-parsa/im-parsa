@@ -41,9 +41,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=dark&hide_border=true&stroke=f53b3b" />
 </div>
   
+  <br>
+  
   <div align="center">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" />     </a>
   </div>
+  
 </details>
 
 <br>
