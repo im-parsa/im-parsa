@@ -1,4 +1,4 @@
-<img src="https://im-parsa.github.io/images/hero.png" alt="Hero image">
+<img src="https://cdn.discordapp.com/attachments/776425421968244768/881109192331624448/hero-svg.png" alt="Hero image">
 
 <p align="center"><samp><b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am <a href="https://parsa-firoozi.ir/">Paras </a> </samp></h1></p>
@@ -63,4 +63,4 @@
 
 ![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
 
-<img src="https://im-parsa.github.io/images/bottom.png" alt="Hero image">
+<img src="https://cdn.discordapp.com/attachments/776425421968244768/881109188670001182/bottom-svg.png" alt="Bottom image">
