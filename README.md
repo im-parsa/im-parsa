@@ -43,7 +43,7 @@
 <br><br>
 
 <details align="center">
-  <summary align="center"><b><samp>📈 My GitHub Stats</samp></b></summary>
+  <summary align="center"><b align="center"><samp align="center">📈 My GitHub Stats</samp></b></summary>
 <br>
 
 <div align="center">
