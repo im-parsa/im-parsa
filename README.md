@@ -5,11 +5,9 @@
 
 <h3 align="center">💡 I am currently working on cool idea.</h3>
 
-<p align="center"> 👨‍💻 All of my projects are available at https://parsa-firoozi.ir</p>
+<p align="center"> 👨‍💻 All of my projects are available at <a href="https://parsa-firoozi.ir" target="_follow" title="parsa firoozi">https://parsa-firoozi.ir</a></p>
 
-
-<br>
-
+<br><br>
 
 <h1 align="center">👨‍💻 Programming Language</h1>
 
@@ -20,9 +18,7 @@
     <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react" alt="Node.js" />
 </div>
 
-
-<br>
-
+<br><br>
 
 <h1 align="center">🛠️ Tool And Technology</h1>
 
@@ -35,9 +31,7 @@
     <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?&style=for-the-badge&logo=mongodb" alt="Github"/>
 </div>
 
-
-<br>
-
+<br><br>
 
 <h1 align="center">🖥 Operating System</h1>
 
@@ -46,9 +40,7 @@
   <img src="https://img.shields.io/badge/Windows%20-%23323330.svg?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
 </p>
 
-<br>
-<br>
-
+<br><br>
 
 <details align="center">
   <summary align="center"><b><samp>📈 My GitHub Stats</samp></b></summary>
