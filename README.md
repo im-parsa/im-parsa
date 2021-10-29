@@ -28,7 +28,8 @@
      <img src="https://img.shields.io/badge/markdown%20-%23323330.svg?style=for-the-badge&logo=markdown" alt="Markdown" />
     <img src="https://img.shields.io/badge/Electron.js%20-%23323330.svg?style=for-the-badge&logo=electron" alt="Electron" />
     <img src="https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github" alt="Github"/>
-    <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?&style=for-the-badge&logo=mongodb" alt="Github"/>
+    <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?&style=for-the-badge&logo=mongodb" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Webstorm%20-%23323330.svg?&style=for-the-badge&logo=mongodb" alt="Webstorm"/>
 </div>
 
 <br><br>
