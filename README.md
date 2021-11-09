@@ -1,11 +1,24 @@
 <img src="https://cdn.discordapp.com/attachments/776425421968244768/881109192331624448/hero-svg.png" alt="Hero image">
 
-<p align="center"><h4 align="center"><samp> Fullstack Web Developer - App & Bot Developer - Graphic Designer </samp></h4></p>
+<p align="center">
+    <h4 align="center"><samp> Fullstack Web Developer - App & Bot Developer - Graphic Designer </samp></h4>
+</p>
+
 <br>
 
-<h3 align="center">💡 I am currently working on cool idea.</h3>
+<h3 align="center">
+    💡 I am currently working on cool idea.
+</h3>
 
-<p align="center"> 👨‍💻 All of my projects are available at <a href="https://parsa-firoozi.ir" target="_follow" title="parsa firoozi">https://parsa-firoozi.ir</a></p>
+<p align="center"> 
+    👨‍💻 All of my projects are available at <a href="https://parsa-firoozi.ir" target="_follow" title="parsa firoozi">https://parsa-firoozi.ir</a>
+</p>
+
+<p align="center">
+    <a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"style="border-radius:15px"></a>
+    <a><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"style="border-radius:15px"></a>
+    <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"style="border-radius:15px"></a>
+</p>
 
 <br><br>
 
