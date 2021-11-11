@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-    <a href="https://instagram.com/hello_im_parsa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discord.com/invite/RUrks4JqW6"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="border-radius:15px" alt="Discord"></a>
-    <a href="mailto:parsa.hastam20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius:15px"></a>
+    <a href="https://instagram.com/hello_im_parsa"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=e92e2e" style="border-radius:15px" alt="Instagram"></a>
+    <a href="https://discord.com/invite/RUrks4JqW6"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=e92e2e" style="border-radius:15px" alt="Discord"></a>
+    <a href="mailto:parsa.hastam20@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=e92e2e" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
 <br><br>
