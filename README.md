@@ -22,39 +22,46 @@
 
 <br><br>
 
-<h1 align="center"Programming Language</h1>
+<h1 align="center">
+    Programming Language
+</h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=e92e2e" alt="TypeScript"  style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=e92e2e" alt="JavaScriprt" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=e92e2e" alt="Node.js"  style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=e92e2e" alt="React"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=e92e2e" alt="TypeScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=e92e2e" alt="JavaScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=e92e2e" alt="Node.js" style="border-radius:15px"/>
     <br/>
-    <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=e92e2e" alt="HTML5"  style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=e92e2e" alt="CSS3"  style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=e92e2e" alt="SASS"  style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=e92e2e" alt="PHP"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=e92e2e" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=e92e2e" alt="CSS3" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=e92e2e" alt="SASS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=e92e2e" alt="PHP" style="border-radius:15px"/>
 </div>
 
 <br><br>
 
-<h1 align="center"Tool And Technology</h1>
+<h1 align="center">
+    Tool And Technology
+</h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=e92e2e" alt="React Router"  style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Electron.js-0D1117.svg?style=for-the-badge&logo=electron&logoColor=e92e2e" alt="Electron.js"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=e92e2e" alt="React"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=e92e2e" alt="React Router" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Electron.js-0D1117.svg?style=for-the-badge&logo=electron&logoColor=e92e2e" alt="Electron.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=e92e2e" alt="MongoDB" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Express.js-0D1117.svg?style=for-the-badge&logo=express&logoColor=e92e2e" alt="Express.js"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Express.js-0D1117.svg?style=for-the-badge&logo=express&logoColor=e92e2e" alt="Express.js" style="border-radius:15px"/> 
     <br/>
-    <img src="https://img.shields.io/badge/Heroku-0D1117?style=for-the-badge&logo=heroku&logoColor=e92e2e" alt="Heroku"  style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=e92e2e" alt="Git"  style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=e92e2e" alt="Markdown"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Redis-0D1117.svg?style=for-the-badge&logo=redis&logoColor=e92e2e" alt="Redis" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Heroku-0D1117?style=for-the-badge&logo=heroku&logoColor=e92e2e" alt="Heroku" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=e92e2e" alt="Git" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=e92e2e" alt="Markdown" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Webstorm-0D1117.svg?&style=for-the-badge&logo=webstorm&logoColor=e92e2e" alt="Webstorm" style="border-radius:15px"/>
 </div>
 
 <br><br>
 
-<h1 align="center"Operating System</h1>
+<h1 align="center">
+    Operating System
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=e92e2e" alt="Ubuntu"  style="border-radius:15px"/>
@@ -95,6 +102,5 @@
 </div>
 
 <br/>
-
 
 <img src="https://cdn.discordapp.com/attachments/776425421968244768/881109188670001182/bottom-svg.png" alt="Bottom image">
