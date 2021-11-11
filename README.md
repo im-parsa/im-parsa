@@ -68,19 +68,19 @@
     <summary align="center"><b align="center"><samp align="center">📈 My GitHub Stats</samp></b></summary>
     <br/>
     <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"  alt=""/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=e92e2e&icon_color=e92e2e"  alt=""/>
     </div>
     <br/>
     <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"  alt=""/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=e92e2e&icon_color=e92e2e"  alt=""/>
     </div>
     <br/>
     <div align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F"  alt=""/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=e92e2e&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F"  alt=""/>
     </div>
     <br/>
     <div align="center">
-        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&custom_title=IntelligentQuantum's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true"  alt=""/>     </a>
+        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&custom_title=im-parsa's%20Contribution%20Graph&bg_color=0D1117&color=e92e2e&line=FFFFFF&point=e92e2e&hide_border=true"  alt=""/>     </a>
     </div>
 </details>
 
