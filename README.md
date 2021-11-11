@@ -74,7 +74,9 @@
 <details align="center">
     <summary align="center">
             <samp align="center">
-                GitHub Stats
+                <h align="center">
+                    GitHub Stats
+                </h>
             </samp>
     </summary>
     <br/>
