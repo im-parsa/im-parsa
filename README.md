@@ -10,8 +10,8 @@
    I am currently working on cool idea.
 </h3>
 
-<p align="center"> 
-   All of my projects are available at <a href="https://parsa-firoozi.ir" target="_follow" title="parsa firoozi">https://parsa-firoozi.ir</a>
+<p align="center">
+    All of my projects are available at <a href="https://parsa-firoozi.ir" target="_follow" title="parsa firoozi">https://parsa-firoozi.ir</a>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 <details align="center">
     <summary align="center">
             <samp align="center">
-                My GitHub Stats
+                GitHub Stats
             </samp>
     </summary>
     <br/>
