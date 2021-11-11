@@ -66,11 +66,9 @@
 
 <details align="center">
     <summary align="center">
-        <b align="center">
             <samp align="center">
                 My GitHub Stats
             </samp>
-        </b>
     </summary>
     
     <br/>
