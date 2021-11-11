@@ -70,9 +70,7 @@
                 My GitHub Stats
             </samp>
     </summary>
-    
     <br/>
-    
     <div align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=e92e2e&icon_color=e92e2e"  alt=""/>
     </div>
