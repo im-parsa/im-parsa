@@ -76,7 +76,7 @@
     </div>
     <br/>
     <div align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=e92e2e&currStreakLabel=e92e2e&sideNums=F84C4C&currStreakNum=F84C4C&sideLabels=e92e2e"  alt=""/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=e92e2e&currStreakLabel=e92e2e&sideNums=F84C4C&currStreakNum=ff7979&sideLabels=e92e2e"  alt=""/>
     </div>
     <br/>
     <div align="center">
