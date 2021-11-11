@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/776425421968244768/881109192331624448/hero-svg.png" alt="Hero image">
+<img src="https://github.com/im-parsa/im-parsa/raw/main/hero.png" alt="Hero image">
 
 <div align="center">
     <h4 align="center"><samp> Fullstack Web Developer - App & Bot Developer - Graphic Designer </samp></h4>
@@ -105,4 +105,4 @@
 
 <br/>
 
-<img src="https://cdn.discordapp.com/attachments/776425421968244768/881109188670001182/bottom-svg.png" alt="Bottom image">
+<img src="https://github.com/im-parsa/im-parsa/raw/main/footer.png" alt="Footer image">
