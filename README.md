@@ -7,11 +7,11 @@
 <br>
 
 <h3 align="center">
-    💡 I am currently working on cool idea.
+   I am currently working on cool idea.
 </h3>
 
 <p align="center"> 
-    👨‍💻 All of my projects are available at <a href="https://parsa-firoozi.ir" target="_follow" title="parsa firoozi">https://parsa-firoozi.ir</a>
+   All of my projects are available at <a href="https://parsa-firoozi.ir" target="_follow" title="parsa firoozi">https://parsa-firoozi.ir</a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 <br><br>
 
-<h1 align="center">👨‍💻 Programming Language</h1>
+<h1 align="center"Programming Language</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=e92e2e" alt="TypeScript"  style="border-radius:15px"/>
@@ -38,7 +38,7 @@
 
 <br><br>
 
-<h1 align="center">🛠️ Tool And Technology</h1>
+<h1 align="center"Tool And Technology</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=e92e2e" alt="React Router"  style="border-radius:15px"/>
@@ -54,7 +54,7 @@
 
 <br><br>
 
-<h1 align="center">🖥 Operating System</h1>
+<h1 align="center"Operating System</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=e92e2e" alt="Ubuntu"  style="border-radius:15px"/>
@@ -65,8 +65,16 @@
 <br><br>
 
 <details align="center">
-    <summary align="center"><b align="center"><samp align="center">📈 My GitHub Stats</samp></b></summary>
+    <summary align="center">
+        <b align="center">
+            <samp align="center">
+                My GitHub Stats
+            </samp>
+        </b>
+    </summary>
+    
     <br/>
+    
     <div align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=e92e2e&icon_color=e92e2e"  alt=""/>
     </div>
