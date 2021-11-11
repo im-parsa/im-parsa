@@ -80,7 +80,7 @@
     </div>
     <br/>
     <div align="center">
-        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F"  alt=""/>     </a>
+        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&custom_title=IntelligentQuantum's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true"  alt=""/>     </a>
     </div>
 </details>
 
