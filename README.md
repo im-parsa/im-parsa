@@ -57,9 +57,9 @@
 <h1 align="center">🖥 Operating System</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"  style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"  style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"  style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=e92e2e" alt="Ubuntu"  style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=e92e2e" alt="Arch Linux"  style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=e92e2e" alt="Windows"  style="border-radius:15px"/>
 </p>
 
 <br><br>
