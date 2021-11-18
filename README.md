@@ -76,12 +76,12 @@
 </h1>
 
 <div align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=im-parsa&theme=react&hide_border=true&bg_color=171717&title_color=e92e2e&icon_color=e92e2e"  alt=""/>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=im-parsa&theme=gruvbox_duo"  alt=""/>
 </div>
 <br/>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=171717&title_color=e92e2e&icon_color=e92e2e"  alt=""/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=e92e2e&icon_color=e92e2e"  alt=""/>
 </div>
 <br/>
 
