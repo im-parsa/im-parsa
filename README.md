@@ -76,7 +76,7 @@
 </h1>
 
 <div align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app?username=im-parsa&theme=onestar"  alt=""/>
+    <img align="center" src="https://github-profile-trophy.vercel.app?username=im-parsa&theme=gruvbox"  alt=""/>
 </div>
 <br/>
 
