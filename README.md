@@ -1,4 +1,4 @@
-<img src="https://github.com/im-parsa/im-parsa/raw/main/header.svg" alt="Header Image">
+<img src="https://github.com/im-parsa/im-parsa/raw/main/hero.png" alt="Header Image">
 
 <div align="center">
     <h4 align="center"><samp> Fullstack Web Developer - App & Bot Developer - Graphic Designer </samp></h4>
