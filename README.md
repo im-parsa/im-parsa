@@ -43,8 +43,8 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Node.js-20202a?style=for-the-badge&logo=node.js&logoColor=4f40f8" alt="Node.js" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Deno.js-20202a?style=for-the-badge&logo=deno.js&logoColor=4f40f8" alt="Deno.js" style="border-radius:15px"/>
-        <img src="https://img.shields.io/badge/Next.js-20202a.svg?style=for-the-badge&logo=next&logoColor=4f40f8" alt="Nest.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Deno.js-20202a?style=for-the-badge&logo=deno&logoColor=4f40f8" alt="Deno.js" style="border-radius:15px"/>
+        <img src="https://img.shields.io/badge/Next.js-20202a.svg?style=for-the-badge&logo=next.js&logoColor=4f40f8" alt="Nest.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/React-20202a?style=for-the-badge&logo=react&logoColor=4f40f8" alt="React.js"  style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Electron.js-20202a.svg?style=for-the-badge&logo=electron&logoColor=4f40f8" alt="Electron.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Express.js-20202a.svg?style=for-the-badge&logo=express&logoColor=4f40f8" alt="Express.js" style="border-radius:15px"/> 
