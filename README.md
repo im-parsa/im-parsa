@@ -30,7 +30,9 @@
     <img src="https://img.shields.io/badge/TypeScript-20202a?style=for-the-badge&logo=typescript&logoColor=4f40f8" alt="TypeScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/JavaScript-20202a?style=for-the-badge&logo=javascript&logoColor=4f40f8" alt="JavaScript" style="border-radius:15px"/>
     <br/>
-    <img src="https://img.shields.io/badge/Sass-20202a?style=for-the-badge&logo=sass&logoColor=4f40f8" alt="SASS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Styled-20202a?style=for-the-badge&logo=styled&logoColor=4f40f8" alt="Styled Component" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Less-20202a?style=for-the-badge&logo=less&logoColor=4f40f8" alt="Lesst" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Sass-20202a?style=for-the-badge&logo=sass&logoColor=4f40f8" alt="Sass" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/PHP-20202a?style=for-the-badge&logo=php&logoColor=4f40f8" alt="PHP" style="border-radius:15px"/>
 </div>
 
