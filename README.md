@@ -29,10 +29,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/TypeScript-20202a?style=for-the-badge&logo=typescript&logoColor=4f40f8" alt="TypeScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/JavaScript-20202a?style=for-the-badge&logo=javascript&logoColor=4f40f8" alt="JavaScript" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Node.js-20202a?style=for-the-badge&logo=node.js&logoColor=4f40f8" alt="Node.js" style="border-radius:15px"/>
     <br/>
-    <img src="https://img.shields.io/badge/HTML5-20202a?style=for-the-badge&logo=html5&logoColor=4f40f8" alt="HTML5" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS3-20202a?style=for-the-badge&logo=css3&logoColor=4f40f8" alt="CSS3" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Sass-20202a?style=for-the-badge&logo=sass&logoColor=4f40f8" alt="SASS" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/PHP-20202a?style=for-the-badge&logo=php&logoColor=4f40f8" alt="PHP" style="border-radius:15px"/>
 </div>
@@ -44,8 +41,12 @@
 </h1>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/Node.js-20202a?style=for-the-badge&logo=node.js&logoColor=4f40f8" alt="Node.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Deno.js-20202a?style=for-the-badge&logo=deno.js&logoColor=4f40f8" alt="Deno.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/React-20202a?style=for-the-badge&logo=react&logoColor=4f40f8" alt="React"  style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/React_Router-20202a?style=for-the-badge&logo=react-router&logoColor=4f40f8" alt="React Router" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/HTML5-20202a?style=for-the-badge&logo=html5&logoColor=4f40f8" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS3-20202a?style=for-the-badge&logo=css3&logoColor=4f40f8" alt="CSS3" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Electron.js-20202a.svg?style=for-the-badge&logo=electron&logoColor=4f40f8" alt="Electron.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/MongoDB-20202a?style=for-the-badge&logo=mongodb&logoColor=4f40f8" alt="MongoDB" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Express.js-20202a.svg?style=for-the-badge&logo=express&logoColor=4f40f8" alt="Express.js" style="border-radius:15px"/> 
