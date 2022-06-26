@@ -103,8 +103,9 @@
 <br/><br/>
 
 <div align="center"> 
-    [![im-parsa](https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402)](https://discords.city/users/488958506280550402)
-    <img align="center" src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402" alt=""/>
+  
+    <img width="300px" align="center" src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402" alt=""/>
+
 </div>
 
 <br/>
