@@ -103,7 +103,7 @@
 <br/><br/>
 
 <div align="center"> 
-    <img align="center" src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402.png" alt=""/>
+    <img align="center" src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402" alt=""/>
 </div>
 
 <br/>
