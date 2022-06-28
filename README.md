@@ -102,8 +102,13 @@
 
 <br/>
 
+<img
+  src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-![Screenshot]([screenshot.png](https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402))
+![Screenshot](https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402)
 
 <br/>
 
