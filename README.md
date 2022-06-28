@@ -20,7 +20,7 @@
     <a href="mailto:parsa.hastam20@gmail.com"><img src="https://img.shields.io/badge/Gmail-323540?style=for-the-badge&logo=gmail&logoColor=5294E2" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
-<br><br>
+<br/>
 
 <h1 align="center">
     Programming Language
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/PHP-323540?style=for-the-badge&logo=php&logoColor=5294E2" alt="PHP" style="border-radius:15px"/>
 </div>
 
-<br><br>
+<br/>
 
 <h1 align="center">
     Tool And Technology
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/Webstorm-323540.svg?&style=for-the-badge&logo=webstorm&logoColor=5294E2" alt="Webstorm" style="border-radius:15px"/>
 </div>
 
-<br><br>
+<br/>
 
 <h1 align="center">
     Operating System
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Windows-323540?style=for-the-badge&logo=windows&logoColor=5294E2" alt="Windows"  style="border-radius:15px"/>
 </p>
 
-<br><br>
+<br/>
 
 <h1 align="center">
     GitHub Stats
@@ -100,9 +100,11 @@
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&custom_title=im-parsa's%20Contribution%20Graph&bg_color=323540&color=5294E2&line=FFFFFF&point=5294E2&hide_border=F84C4C&count_private=true"  alt=""/>
 </div>
 
-<br/><br/>
+<br/>
 
-<img src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402" alt=""/>
+<div align="center">
+    <img src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402" alt=""/>
+</div>
 
 <br/>
 
