@@ -102,12 +102,8 @@
 
 <br/>
 
-<div align="center">
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402" style="border: 1px solid black"></iframe>
 <br/><small><a href="https://www.openstreetmap.org/#map=17/46.23438/6.05463">View Larger Map</a></small>
-    
-    [<img src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402" width="50%">](https://discords.city/users/488958506280550402)
-</div>
 
 <br/>
 
