@@ -102,13 +102,15 @@
 
 <br/>
 
-<img
-  align="center"
-  src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402"
-  alt="Discords City 488958506280550402 User"
-  title="Discords City 488958506280550402 User"
-  style="display: inline-block; margin: 0 auto; max-width: 300px"
-/>
+<div align="center"> 
+    <img
+      align="center"
+      src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402"
+      alt="Discords City 488958506280550402 User"
+      title="Discords City 488958506280550402 User"
+      style="display: inline-block; margin: 0 auto; max-width: 300px"
+    />
+</div>
   
 <br/>
 
