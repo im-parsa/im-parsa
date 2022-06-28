@@ -97,7 +97,7 @@
 <br/>
 
 <div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&custom_title=im-parsa's%20Contribution%20Graph&bg_color=323540&color=5294E2&line=FFFFFF&point=5294E2&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&custom_title=im-parsa's%20Contribution%20Graph&bg_color=323540&color=5294E2&line=FFFFFF&point=5294E2&hide_border=F84C4C&count_private=true"  alt=""/>
 </div>
 
 <br/><br/>
