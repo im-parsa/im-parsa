@@ -104,12 +104,11 @@
 
 <img
   src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
-![Screenshot](https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402)
-
+  alt="Discords City 488958506280550402 User"
+  title="Discords City 488958506280550402 User"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"
+/>
+  
 <br/>
 
 <img src="https://github.com/im-parsa/im-parsa/raw/main/footer.png" alt="Footer image">
