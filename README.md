@@ -103,7 +103,7 @@
 <br/>
 
 <div align="center">
-    <img width='400px' src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402" alt=""/>
+    [<img src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402" width="50%">](https://discords.city/users/488958506280550402)
 </div>
 
 <br/>
