@@ -103,11 +103,11 @@
 <br/>
 
 <div align="center"> 
-    <a href="https://discords.city/users/488958506280550402">
+    <a href="https://discordly.city/users/488958506280550402">
         <img
             align="center"
             wifth="300px"
-            src="https://api.discords.city/api/v1/user/widget/theme-1/488958506280550402?size=320px"
+            src="https://api.discordly.city/api/v1/user/widget/theme-1/488958506280550402?size=320px"
             alt="Discords City 488958506280550402 User"
             title="Discords City 488958506280550402 User"
             style="display: inline-block; margin: 0 auto; max-width: 300px"
