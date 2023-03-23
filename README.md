@@ -108,8 +108,8 @@
             align="center"
             wifth="300px"
             src="https://api.discordly.city/api/v1/user/widget/theme-1/488958506280550402?size=320px"
-            alt="Discords City 488958506280550402 User"
-            title="Discords City 488958506280550402 User"
+            alt="Discordly City 488958506280550402 User"
+            title="Discordly City 488958506280550402 User"
             style="display: inline-block; margin: 0 auto; max-width: 300px"
         />
     </a>
