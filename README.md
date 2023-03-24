@@ -106,11 +106,10 @@
     <a href="https://discordly.city/users/488958506280550402">
         <img
             align="center"
-            wifth="300px"
+            wifth="320px"
             src="https://api.discordly.city/api/v1/user/widget/theme-1/488958506280550402?size=320px"
             alt="Discordly City 488958506280550402 User"
             title="Discordly City 488958506280550402 User"
-            style="display: inline-block; margin: 0 auto; max-width: 300px"
         />
     </a>
 </div>
