@@ -103,7 +103,6 @@
 <br/>
 
 <div align="center"> 
-    <a href="https://discordly.city/users/488958506280550402">
         <img
             align="center"
             wifth="320px"
@@ -111,7 +110,6 @@
             alt="Discordly City 488958506280550402 User"
             title="Discordly City 488958506280550402 User"
         />
-    </a>
 </div>
   
 <br/>
