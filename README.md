@@ -15,6 +15,7 @@
 </p>
 
 <p align="center">
+    <a href="https://twitter.com/TechParsa"><img src="https://img.shields.io/badge/Twitter-323540?style=for-the-badge&logo=twitter&logoColor=5294E2" style="border-radius:15px" alt="Twitter"></a>
     <a href="https://instagram.com/hello_im_parsa"><img src="https://img.shields.io/badge/Instagram-323540?style=for-the-badge&logo=instagram&logoColor=5294E2" style="border-radius:15px" alt="Instagram"></a>
     <a href="https://discord.com/invite/RUrks4JqW6"><img src="https://img.shields.io/badge/Discord-323540?style=for-the-badge&logo=discord&logoColor=5294E2" style="border-radius:15px" alt="Discord"></a>
     <a href="mailto:parsa.hastam20@gmail.com"><img src="https://img.shields.io/badge/Gmail-323540?style=for-the-badge&logo=gmail&logoColor=5294E2" alt="Gmail" style="border-radius:15px"></a>
