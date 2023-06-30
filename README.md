@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Less-323540?style=for-the-badge&logo=less&logoColor=5294E2" alt="Lesst" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Sass-323540?style=for-the-badge&logo=sass&logoColor=5294E2" alt="Sass" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/PHP-323540?style=for-the-badge&logo=php&logoColor=5294E2" alt="PHP" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/PHP-323540?style=for-the-badge&logo=python&logoColor=5294E2" alt="Python" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Python-323540?style=for-the-badge&logo=python&logoColor=5294E2" alt="Python" style="border-radius:15px"/>
 </div>
 
 <br/>
