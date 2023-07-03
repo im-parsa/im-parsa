@@ -115,5 +115,4 @@
 </div>
   
 <br/>
-
 <img src="https://github.com/im-parsa/im-parsa/raw/main/footer.png" alt="Footer image">
