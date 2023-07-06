@@ -4,7 +4,7 @@
     <h4 align="center"><samp> Fullstack Web Developer - App & Bot Developer - Graphic Designer </samp></h4>
 </div>
 
-<br>
+<br/>
 
 <h3 align="center">
    I am currently working on cool idea.
