@@ -105,16 +105,4 @@
 
 <br/>
 
-<div align="center"> 
-        <img
-            align="center"
-            wifth="320px"
-            src="https://api.discordly.city/api/v1/user/widget/theme-1/488958506280550402?size=320px"
-            alt="Discordly City 488958506280550402 User"
-            title="Discordly City 488958506280550402 User"
-        />
-</div>
-  
-<br/>
-
 <img src="https://github.com/im-parsa/im-parsa/raw/main/footer.png" alt="Footer image">
